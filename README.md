@@ -48,7 +48,7 @@ In this project I have created commands in xv6 OS which will run on Qemu prompt.
 
 
 For stepwise commands of all the four system calls/ commands you can refer the 
-XV6_Project_Debashree.pdf attached. It contains full detailed code at every step along with the screenshots of the outputs and the changes made to each and every file.
+XV6_Project_Debashree.pdf attached. It contains full detailed code at every step along with the screenshots of the outputs and the changes made to each and every file.I have also uploaded the direct file in which key changes have been made by me during this project.
 
 To run the commands download the zip file of XV6 and install QEMU command prompt. Type the following command in XV6 operating system to open QEMU command prompt.
 	 make clean
