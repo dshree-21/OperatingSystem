@@ -1,7 +1,13 @@
 # OperatingSystem
 
-Xv6 is a re-implementation of the Unix 6th edition in order to use as a learning tool. xv6 was developed by MIT as a teaching operating system for their “6.828” course. This is a lightweight operating system where the time to compile is very low and it also allow remote debugging.
+Xv6 is a re-implementation of the Unix 6th edition in order to use as a learning tool. XV6 was developed by MIT as a teaching operating system for their “6.828” course. This is a lightweight operating system where the time to compile is very low and it also allow remote debugging.
 Now, start xv6 system on QEMU and when it booted up, run ls command to check whether our program is available for the user. 
+
+To test this project you need to download the XV-6 zip file attched in my project Operating System.
+Also, you need to download Qemu command prompt using the link -
+https://www.qemu.org/download/
+
+Whether you test the codes on Windows or Ubuntu command prompt ensure that their environment supports C compiler, XV6 (zip file) and Qemu command prompt already installed in it.
 
 To prepare a system call we need to make changes to the below listen files of the XV6 zip folder.
 	• Syscall.h
